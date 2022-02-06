@@ -682,7 +682,6 @@ google-plus-stream-widget-plugin-for-wordpress ;; deprecated
 google-plus-widget ;; deprecated
 google-privacy-policy ;; not maintained
 google-publisher ;; deprecated
-google-site-verification-using-meta-tag ;; bad practice, not maintained
 google-webfont-optimizer ;; not maintained
 googleplus-multi-authorship ;; deprecated
 gonzales ;; ss conflicts
